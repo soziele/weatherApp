@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.pogodynka.MainActivity">
+
+    <item
+        android:id="@+id/action_senior"
+        android:icon="@drawable/not_senior"
+        android:title="Senior"
+        app:showAsAction="ifRoom" />
+</menu>
